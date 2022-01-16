@@ -1,0 +1,16 @@
+= Tasks
+
+== First task:
+
+=== Valid anagram
+
+image::../../HackerRand3MonthsPreparationKit/doc/image-2022-01-16-11-28-23-522.png[]
+
+'''
+
+== Second task:
+
+== First and Last Index in Sorted Array
+
+image::../../HackerRand3MonthsPreparationKit/doc/image-2022-01-16-12-39-09-362.png[]
+
